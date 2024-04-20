@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/cC33rdm/dexe47y-93532dcd-45cd-4381-8758-b6c5535c3a4e.jpg" ></p>
+<p align="center"><img src="https://i.ibb.co/cC33rdm/dexe47y-93532dcd-45cd-4381-8758-b6c5535c3a4e.jpg"></p>
 
 # Movie Recommendation System
 
