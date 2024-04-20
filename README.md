@@ -17,8 +17,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 <h3 align="center">Socials</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/vikas-kumar-547645142" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-547645142" height="30" width="40" /></a>
-<a href="https://twitter.com/pande17827" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas-kumar-547645142" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="vikas-kumar-547645142" /></a>
+<a href="https://twitter.com/pande17827" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a>
 </p>
 
 [![linkedin]()](https://www.linkedin.com/in/vikas-kumar-547645142/)  
