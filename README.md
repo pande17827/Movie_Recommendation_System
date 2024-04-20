@@ -14,7 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 ```
 
 
-## 🔗 Links
+<h3 align="center">Socials</h3>
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-547645142/)  
