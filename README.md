@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/pande17827/Movie_Recommendation_System/blob/main/dexe47y-93532dcd-45cd-4381-8758-b6c5535c3a4e.jpg"></p>
 
-# Movie Recommendation System
-
-Personalized movie curator, suggesting tailored film selections based on your preferences, ensuring every movie night is a blockbuster hit!"
+<h1 align="center">Movie Recommendation System</h1>
+<p align="center">
+<i>Personalized movie curator, suggesting tailored film selections based on your preferences, ensuring every movie night is a blockbuster hit!</i><br></p>
 
 
 ## Installation
