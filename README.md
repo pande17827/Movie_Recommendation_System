@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
   pip install altair numpy pandas pydeck streamlit
 ```
     
-[![Logo](https://i.ibb.co/RCq5VXf/Beige-Minimal-Personal-Make-Up-Artist-Logo.png)]
+![Logo](https://i.ibb.co/RCq5VXf/Beige-Minimal-Personal-Make-Up-Artist-Logo.png)
 
 
 ## 🔗 Links
