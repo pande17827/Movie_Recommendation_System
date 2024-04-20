@@ -21,9 +21,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 <a href="https://twitter.com/pande17827" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a>
 </p>
 
-[![linkedin]()](https://www.linkedin.com/in/vikas-kumar-547645142/)  
-
-[![twitter]()]()
-
 <p align="center"><img src="https://i.ibb.co/RCq5VXf/Beige-Minimal-Personal-Make-Up-Artist-Logo.png"></p>
 
