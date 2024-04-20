@@ -12,8 +12,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 ```bash
   pip install altair numpy pandas pydeck streamlit
 ```
-    
-![Logo](https://i.ibb.co/RCq5VXf/Beige-Minimal-Personal-Make-Up-Artist-Logo.png)
 
 
 ## 🔗 Links
@@ -23,5 +21,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pande17827)
 
-
+<p align="center"><img src="https://i.ibb.co/RCq5VXf/Beige-Minimal-Personal-Make-Up-Artist-Logo.png"></p>
 
