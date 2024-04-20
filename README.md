@@ -1,4 +1,4 @@
-
+<p align="center"><img src="https://i.ibb.co/hfb6n4T/dexe47y-93532dcd-45cd-4381-8758-b6c5535c3a4e.jpg" width="1380px" height="180px"></p>
 # Movie Recommendation System
 
 Personalized movie curator, suggesting tailored film selections based on your preferences, ensuring every movie night is a blockbuster hit!"
